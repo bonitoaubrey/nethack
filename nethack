@@ -38,19 +38,127 @@ Be fast or very fast	[ - ]	|										|
 
 Last pray: 
 
+
+
+===SCROLLS===
+20
+identify        [ - ]
+50
+light           [ - ]
+60
+blank paper 	[ - ]
+enchant weapon 	[ - ]
+80
+enchant armor 	[ - ]
+remove curse 	[ - ]
+100
+confuse monster [ - ]
+destroy armor 	[ - ]
+fire 	        [ - ]
+food detection 	[ - ]
+gold detection 	[ - ]
+magic mapping 	[ - ]
+scare monster 	[ - ]
+teleportation   [ - ]
+200
+amnesia 	    [ - ]
+create monster 	[ - ]
+earth 	     	[ - ]
+taming          [ - ]
+300
+charging        [ - ]
+genocide        [ - ]
+punishment      [ - ]
+stinking cloud 	[ - ]
+
+===POTIONS===
+    50
+booze 	            [ - ] amethyst -> juice
+fruit juice 	    [ - ]
+see invisible 	    [ - ]
+sickness 	        [ - ] dip -> poison/juice
+    100
+confusion 	       f[ - ] dip -> water
+extra healing 	   s[ - ]
+hallucination 	    [ - ] dip -> water
+healing 	       s[ - ]
+holy water 	        [ - ]
+unholy water 	    [ - ]
+restore ability 	[ - ]
+sleeping 	       f[ - ] 
+    150
+blindness 	       f[ - ] dip -> water
+gain energy 	    [ - ]
+invisibility 	   s[ - ]
+monster detection 	[ - ]
+object detection 	[ - ]
+    200
+enlightenment 	    [ - ]
+full healing 	   s[ - ]
+levitation 	        [ - ]
+polymorph 	       s[ - ] dip
+speed 	           s[ - ]
+    250
+acid 	           f[ - ]
+oil 	            [ - ]
+    300
+gain ability 	    [ - ]
+gain level         s[ - ]
+paralysis          f[ - ]
+
+
+
+===RINGS===
+100
+ring of adornment 	                    [ - ]
+ring of hunger 	                        [ - ]
+ring of protection 	                    [ - ]
+ring of protection from shape changers 	[ - ] 	
+ring of stealth                         [ - ]
+ring of sustain ability 	            [ - ] 	
+ring of warning 	                    [ - ]
+150
+ring of aggravate monster 	            [ - ]
+ring of cold resistance 	            [ - ]	
+ring of gain constitution 	            [ - ]
+ring of gain strength 	                [ - ]
+ring of increase accuracy 	            [ - ]
+ring of increase damage 	            [ - ]
+ring of invisibility 	                [ - ]
+ring of poison resistance 	            [ - ] 	
+ring of see invisible 	                [ - ] 	
+ring of shock resistance 	            [ - ] 	
+200
+ring of fire resistance                 [ - ] 	
+ring of free action 	                [ - ]	
+ring of levitation 	                    [ - ]
+ring of regeneration 	                [ - ]	
+ring of searching 	                    [ - ]
+ring of slow digestion 	                [ - ] 	
+ring of teleportation 	                [ - ]
+300
+ring of conflict                        [ - ]
+ring of polymorph 	                    [ - ]
+ring of polymorph control 	            [ - ] 	
+ring of teleport control 	            [ - ]
+
+Engraving rings: topaz, sapphire, ruby, steel, diamond, and emerald
+
+===MAP===
+
     |-5   |Astral
     |-4   |Water
     |-3   |Fire
     |-2   |Air
     |-1   |Earth
-    | 1 --/                               \
-    | 2 \                                 |--Dungeons of Doom
-    | 3 |------------------|Gnomish Mines |
-    | 4 /                  |              |
-    | 5 \           |soko4 | \Minetown    |
-    | 6 |Oracle  \  |soko3 | /            | 
-    | 7 |        |  |soko2 |              |
-    | 8 |        |--|soko1 |              |
+ -  | 1 --/                               \
+ -  | 2 \                                 |--Dungeons of Doom
+ -  | 3 |------------------|Gnomish Mines |
+ -  | 4 /                  |              |
+ -  | 5 \           |soko4 | \Minetown    |
+ -  | 6 |        \  |soko3 | /            | 
+ -  | 7 |        |  |soko2 |              |
+    | 8 | Oracle |--|soko1 |              |
     | 9 /        |         |              |
     |10          /  \      | \Mines' End  |
     |11 \         \ |BigRm | /            |
